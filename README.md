@@ -1,3 +1,5 @@
+> **Moved.** This SDK now lives in [innovafour/iforevents-sdks](https://github.com/innovafour/iforevents-sdks/tree/main/ruby). This repository is archived.
+
 # IForevents SDK for Ruby
 
 The IForevents analytics SDK for Ruby apps, Rails, workers and CLIs. One
